@@ -1,6 +1,6 @@
 # Calculator App
 
-![Calculator App](screenshots/calculator_app.png)
+![Calculator App](calculator_app.png)
 
 This is a simple calculator app built for Android devices. It provides basic mathematical operations such as addition, subtraction, multiplication, and division, along with a clear button to reset the input.
 
