@@ -6,8 +6,13 @@ This is a simple calculator app built for Android devices. It provides basic mat
 
 ## Screenshots
 
-![Screenshot 1](screenshot_1.png)
-![Screenshot 2](screenshot_2.png)
+## Screenshots
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center;">
+  <img src="screenshot_1.png" alt="Screenshot 1" width="300" style="margin-right: 20px;">
+  <img src="screenshot_2.png" alt="Screenshot 2" width="300">
+</div>
+
 
 ## Features
 
