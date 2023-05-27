@@ -6,8 +6,8 @@ This is a simple calculator app built for Android devices. It provides basic mat
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot_1.png)
-![Screenshot 2](screenshots/screenshot_2.png)
+![Screenshot 1](screenshot_1.png)
+![Screenshot 2](screenshot_2.png)
 
 ## Features
 
