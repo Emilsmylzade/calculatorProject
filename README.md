@@ -1,6 +1,6 @@
 # Calculator App
 
-![Calculator App](calculator_app.png)
+<img src="calculator_app.png" alt="Calculator App" width="400">
 
 This is a simple calculator app built for Android devices. It provides basic mathematical operations such as addition, subtraction, multiplication, and division, along with a clear button to reset the input.
 
